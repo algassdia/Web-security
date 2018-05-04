@@ -35,7 +35,7 @@ Time spent: **9** hours and half spent in total
   
   - [x] Steps to recreate: Create a new media image file with the following format:
   
-    filename<img src=a onerror=alert(1)>.png
+    ```filename<img src=a onerror=alert(1)>.png```
   
   - [x] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
@@ -52,7 +52,7 @@ Time spent: **9** hours and half spent in total
   
   - [x] Steps to recreate: create a new page. And, then place the code below in the body of the page
   
-  [embed src='https://youtube.com/embed/dark\x3csvg onload=alert(1)\x3e'][/embed]
+  ```[embed src='https://youtube.com/embed/dark\x3csvg onload=alert(1)\x3e'][/embed]```
   
   - [x] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
