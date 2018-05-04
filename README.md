@@ -18,7 +18,7 @@ Time spent: **9** hours and half spent in total
   
   Leave the following javascript line as a comment to the post
   
-  > <b onmouseover="alert('This is a vulnerability')">click!</b> 
+  <pre> <b onmouseover="alert('This is a vulnerability')">click!</b> </pre>
   
   - [x] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
