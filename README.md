@@ -47,7 +47,7 @@ Time spent: **9** hours and half spent in total
     - Tested in version: 4.2
     - Fixed in version: 4.7.2
   - [x] GIF Walkthrough:
-  ![](./Question_1.gif)
+  ![](./Question3.gif)
   
   
   - [x] Steps to recreate: create a new page. And, then place the code below in the body of the page
