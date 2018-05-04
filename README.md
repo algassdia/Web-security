@@ -12,7 +12,7 @@ Time spent: **9** hours and half spent in total
     - Tested in version: 4.2
     - Fixed in version: 4.2.1
   - [x] GIF Walkthrough:
-  ![](./Question_1.gif)
+  ![](./Question1.gif)
   
   - [x] Steps to recreate: 
   
